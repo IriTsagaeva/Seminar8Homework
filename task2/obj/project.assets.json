@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\В\\.nuget\\packages\\": {}
+    "C:\\Users\\win10user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task2\\task2.csproj",
+      "projectUniqueName": "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task2\\task2.csproj",
       "projectName": "task2",
-      "projectPath": "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task2\\task2.csproj",
-      "packagesPath": "C:\\Users\\В\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task2\\obj\\",
+      "projectPath": "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task2\\task2.csproj",
+      "packagesPath": "C:\\Users\\win10user\\.nuget\\packages\\",
+      "outputPath": "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\В\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\win10user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

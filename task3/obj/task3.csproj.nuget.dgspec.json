@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task3\\task3.csproj": {}
+    "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task3\\task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task3\\task3.csproj": {
+    "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task3\\task3.csproj",
+        "projectUniqueName": "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task3\\task3.csproj",
         "projectName": "task3",
-        "projectPath": "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task3\\task3.csproj",
-        "packagesPath": "C:\\Users\\В\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\В\\OneDrive\\Рабочий стол\\seminar\\task3\\obj\\",
+        "projectPath": "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task3\\task3.csproj",
+        "packagesPath": "C:\\Users\\win10user\\.nuget\\packages\\",
+        "outputPath": "D:\\Рабочие данные (Не_удалять)\\Desktop\\seminar8\\Seminar8Homework\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\В\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\win10user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
